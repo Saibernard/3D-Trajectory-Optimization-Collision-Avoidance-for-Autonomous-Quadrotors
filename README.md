@@ -1,6 +1,8 @@
 # 3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors
 This repository showcases the advanced integration of graph search algorithms, trajectory optimization, and dynamic collision management for an autonomous quadrotor navigating through complex 3D environments. Explore the intricate balance between computational efficiency and real-world robotic adaptability.
 
+![quad_control_maze_1_3](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/91f07a88-de45-4f85-ab91-e79b71a800aa)
+
 ## Overview
 
 ### Autonomous Navigation for Quadrotors in 3D Environments
@@ -42,8 +44,6 @@ The `util/test.py` tool persistently evaluates the quadrotor's navigational prow
 ![3D_Path](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/9bf0e7db-a249-4b39-bc51-0efb2453c6cc)
 
 ![A_Path,_Waypoints,_and_Trajectory](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/11672668-a4d8-4143-9ad0-fa531fedf012)
-
-![quad_control_maze_1_3](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/91f07a88-de45-4f85-ab91-e79b71a800aa)
 
 ![Position_vs_Time](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/7247c5cb-657a-4cfa-945c-b77e6b1a2fc4)
 
