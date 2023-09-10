@@ -39,6 +39,19 @@ As the linchpin of trajectory strategizing, this class amalgamates waypoints and
 ### Iterative Testing Approach
 The `util/test.py` tool persistently evaluates the quadrotor's navigational prowess. Testing it against a variety of maps, this iterative strategy refines algorithms to accommodate an assortment of challenges.
 
+![3D_Path](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/9bf0e7db-a249-4b39-bc51-0efb2453c6cc)
+
+![A_Path,_Waypoints,_and_Trajectory](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/11672668-a4d8-4143-9ad0-fa531fedf012)
+
+![quad_control_maze_1_3](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/91f07a88-de45-4f85-ab91-e79b71a800aa)
+
+![Position_vs_Time](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/7247c5cb-657a-4cfa-945c-b77e6b1a2fc4)
+
+![Orientation_vs_Time](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/75d1bb44-04ad-46b8-ba41-b1a1634f8e2d)
+
+![Commands_vs_Time](https://github.com/Saibernard/3D-Trajectory-Optimization-Collision-Avoidance-for-Autonomous-Quadrotors/assets/112599512/8257a815-1b5c-4cfd-90bc-bd4cf5eabef7)
+
+
 ---
 
 Embarking on this project is more than a journey through 3D navigation. It's a testament to the modern challenges of robotics. The delicate interplay of computation, mechanics, and unpredictable landscapes encapsulates the obstacles and achievements of autonomous mechanisms.
